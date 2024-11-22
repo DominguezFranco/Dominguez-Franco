@@ -12,7 +12,7 @@ const NavBar = () => {
             <img src={pelicula} alt="logo" style={{width: '48px', height: '48px', marginRight: '5px'}}/>
             <h1 className="titulo">TuPelicula</h1>
             <ul className="nav-links" >
-                <li><Link to="/">Home</Link></li>
+                <li className="home"><Link to="/">Home</Link></li>
                 <li><Link to="/category/terror">terror</Link></li>
                 <li><Link to="/category/comedia">comedia</Link></li>
                 <li><Link to="/category/romance">romance</Link></li>

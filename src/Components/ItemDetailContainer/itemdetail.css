@@ -28,3 +28,21 @@
     background-color: #e3d8e4;
     border: 2px solid rgb(0, 0, 0);
   }
+
+  .btn-end-buy{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    border-radius: 1%;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #e3d8e4;
+    font-size: 20px;
+  }
+
+  .btn-end-buy:hover{
+    background-color: #8e6995;
+    cursor: pointer;
+  }

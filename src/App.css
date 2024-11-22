@@ -1,5 +1,9 @@
 .App{
-    background-color: #8e6995;
+    background-color: #c6b1c9;
     color: rgb(0, 0, 0);
     min-height: 100vh;
   }
+
+a {
+  text-decoration: none;
+}
